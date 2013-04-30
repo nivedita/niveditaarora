@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Roller Coaster of Life]]></title>
   <link href="http://nivedita.github.io/atom.xml" rel="self"/>
   <link href="http://nivedita.github.io/"/>
-  <updated>2013-04-30T17:11:25+05:30</updated>
+  <updated>2013-04-30T17:15:06+05:30</updated>
   <id>http://nivedita.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nivedita Arora]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
