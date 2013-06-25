@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Roller Coaster of Life]]></title>
-  <link href="http://nivedita.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: technology, | Roller Coaster of Life]]></title>
+  <link href="http://nivedita.github.io/blog/categories/technology/atom.xml" rel="self"/>
   <link href="http://nivedita.github.io/"/>
   <updated>2013-06-25T18:33:05+05:30</updated>
   <id>http://nivedita.github.io/</id>
